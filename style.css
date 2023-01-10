@@ -1,0 +1,22 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    border-style: dotted none none;
+    /* height: 0px; */
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+    /* background-color: white; */
+}
+
+img {
+    height: 200px;
+}
+
+h1,
+h2 {
+    color: #66bfbf;
+    font-family: 'Courier New', Courier, monospace;
+}
